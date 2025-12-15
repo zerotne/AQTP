@@ -1,0 +1,1 @@
+python tracking/train.py --script aqatrack --config AQATrack-ep100-got-256 --save_dir ./output --mode single --nproc_per_node 1
